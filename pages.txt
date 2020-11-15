@@ -1,0 +1,7 @@
+sign-in done
+sign-up done
+dashboard
+my profile setup
+info-input-list
+filter page
+confirmation page
